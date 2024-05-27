@@ -1,2 +1,3 @@
-#coin-tracker
+# coin-tracker
+
 React Coin Tracker
